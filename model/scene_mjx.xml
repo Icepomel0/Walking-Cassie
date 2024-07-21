@@ -1,5 +1,5 @@
 <mujoco model="cassie scene">
-  <include file="cassie_no_contact.xml"/>
+  <include file="cassie.xml"/>
 
   <statistic center="0 0 0.55" extent="1.1"/>
 
